@@ -15,6 +15,7 @@
             <!-- Add your test classes here using their fully qualified names -->
             <class name="RegistrationTests"/>
             <class name="ErrorValidationsTests"/>
+            <class name="ProductsTests"/>
         </classes>
     </test>
 
