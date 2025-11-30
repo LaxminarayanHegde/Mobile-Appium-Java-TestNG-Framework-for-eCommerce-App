@@ -16,6 +16,7 @@
             <class name="RegistrationTests"/>
             <class name="ErrorValidationsTests"/>
             <class name="ProductsTests"/>
+            <class name="CartPageTests"/>
         </classes>
     </test>
 
